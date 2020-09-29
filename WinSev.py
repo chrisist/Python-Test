@@ -1,3 +1,8 @@
+#adsfsadfdsafasdfsdfadsf#adsfsadfdsafasdfsdfadsf#adsfsadfdsafasdfsdfadsf
+#adsfsadfdsafasdfsdfadsf
+#adsfsadfdsafasdfsdfadsf
+#adsfsadfdsafasdfsdfadsf
+
 import wmi
 
 c = wmi.WMI()
